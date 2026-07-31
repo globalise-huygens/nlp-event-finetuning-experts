@@ -6,4 +6,4 @@ We fine-tune all models on Snellius: run train_single_model.sh to fine-tune a mo
 
 ## evaluation
 
-We have a separate repository dedicated to evaluating the models: https://github.com/globalise-huygens/nlp-event-classifier-evaluation/blob/main/README.md
+We have a separate repository dedicated to evaluating the models: https://github.com/globalise-huygens/nlp-event-classifier-evaluation/tree/main
