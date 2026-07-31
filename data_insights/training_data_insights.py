@@ -25,10 +25,15 @@ print(counted)
 print()
 print(len(list(counted.keys())))
 print()
+print("complete amount of labels")
+print(sum(list(counted.values())))
 
-frequencies = list(counted.values())[1:] # take out None class
+frequencies = list(counted.values())[1:]# take out None class
 frequencies.sort()
 print(frequencies)
+
+print("complete amount of tokens with event label")
+print(sum(frequencies))
 
 import matplotlib.pyplot as plt
 import numpy as np
