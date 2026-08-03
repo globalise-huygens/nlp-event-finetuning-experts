@@ -1,4 +1,4 @@
-# Code and data to fine-tune a general model for event classification as well as ROBE experts
+# Code and data to fine-tune ROBE experts and a general model for event classification
 
 ## usage
 
